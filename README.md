@@ -28,7 +28,4 @@ This project is designed for households, apartments, or small agencies to mainta
 
 ---
 
-## 🚀 How to Run Locally  
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/AnanyaBhatN/Sarva-Sarathi.git
+
