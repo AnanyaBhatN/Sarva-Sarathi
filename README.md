@@ -1,4 +1,6 @@
 **Maid Hiring Management System**
+## 🔗 Live Demo  
+[![Live Demo](https://img.shields.io/badge/Visit-Live%20Site-green?style=for-the-badge)](https://maidmanagement.rf.gd/)
 
 The Maid Hiring Management System is a web-based application built using PHP and MySQL. It allows users to book maids online for different categories of work, and provides an admin panel for managing bookings, categories, and user details.
 
