@@ -51,7 +51,8 @@ Sarva-Sarathi/
 ## 📸 Screenshots
 
 ### 🏁 1. Landing Page (When Website Opens)
-<img width="1339" height="598" alt="Landing Page" src="https://github.com/user-attachments/assets/7658bab3-22fd-435b-85cc-8904bcfa5e08"/>
+<img width="1325" height="599" alt="image" src="https://github.com/user-attachments/assets/497edc4a-f9a9-4347-af99-365c9923dd03" />
+
 
 ---
 
