@@ -1,44 +1,34 @@
-**Maid Hiring Management System**
+# 🧹 Sarva-Sarathi – Maid Management System  
+A simple and efficient web-based system to manage maid information, attendance, salary, and assignments.  
+This project is designed for households, apartments, or small agencies to maintain maid-related data in a structured manner.
+
+---
+
 ## 🔗 Live Demo  
-[![Live Demo](https://img.shields.io/badge/Visit-Live%20Site-green?style=for-the-badge)](https://maidmanagement.rf.gd/)
+👉 **https://maidmanagement.rf.gd/**
 
-The Maid Hiring Management System is a web-based application built using PHP and MySQL. It allows users to book maids online for different categories of work, and provides an admin panel for managing bookings, categories, and user details.
+---
 
-**Features**
-**User Side**
+## 📌 Features  
+- 👩‍💼 Add, update, and manage maid profiles  
+- 📅 Track attendance and work schedule  
+- 💰 Manage salary details  
+- 🔍 Search and filter maids based on criteria  
+- 📄 Store basic information (phone, location, service type, etc.)  
+- 🛠 Admin dashboard for easy access  
+- 🔐 Secure login system  
 
-User registration and login system.
+---
 
-Browse and book maids based on categories.
+## 🛠 Tech Stack  
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Hosting:** InfinityFree (Free hosting)  
 
-Easy-to-use interface for hiring maids online.
+---
 
-**Admin Side**
-
-Secure login with username & password.
-
-Manage maid categories.
-
-Manage users.
-
-View and manage bookings.
-
-Dashboard with booking insights.
-
-**Tech Stack**
-
-Frontend: HTML, CSS, JavaScript
-
-Backend: PHP
-
-Database: MySQL
-
-**Admin Credentials**
-
-Username: admin
-
-Password: Test@123
- 
-**License**
-
-This project is developed for learning purposes. You can use and modify it as per your needs.
+## 🚀 How to Run Locally  
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/AnanyaBhatN/Sarva-Sarathi.git
